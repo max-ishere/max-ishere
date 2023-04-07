@@ -1,4 +1,4 @@
-# GPG signed releases commits
+# GPG signed releases/commits
 
 I am migrating to using signed commits and uploading signed checksum files for most projects. This
 is not a promise that all projects will have signed commits, but I will try to do so. To verify that
