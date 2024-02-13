@@ -1,13 +1,12 @@
-# GPG signed releases/commits
+# About me
 
-I am migrating to using signed commits and uploading signed checksum files for most projects. This
-is not a promise that all projects will have signed commits, but I will try to do so. To verify that
-a commit has been signed by me you can import the following key:
+I'm a passionate developer that makes random projects in my free time. I recently learned Rust from
+"The book" and now it's my favorite language ever. I also have some experience with C++, Python and
+Go, however I mostly use Rust nowadays.
+
+Looking back on some of my older projects, they have so many beginner mistakes and its nice to see
+progress, even as meaningless as learning how to sign my commits and properly use user.name and
+user.email for GitHub.
 
 [My GPG signing key](https://github.com/max-ishere/max-ishere/blob/main/max-ishere-public-key.asc)
-
-This key should only be considered valid in the context of GitHub signed commits, Signed releases and
-as proof of owvership of this account. It certainly should be invalid outside of GitHub and software
-development scopes. I will try to stick to this policy to reduce the impact in case the key is revoked
-or leaked.
-
+that I use for GitHub-related activities.
