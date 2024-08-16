@@ -8,5 +8,5 @@ Looking back on some of my older projects, they have so many beginner mistakes a
 progress, even as meaningless as learning how to sign my commits and properly use user.name and
 user.email for GitHub.
 
-[My GPG signing key](https://github.com/max-ishere/max-ishere/blob/main/max-ishere-public-key.asc)
+[My GPG signing key](https://github.com/max-ishere/max-ishere/blob/main/gpg/max-ishere-public-key-2024-08-16.asc)
 that I use for GitHub-related activities.
